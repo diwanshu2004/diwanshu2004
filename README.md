@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [http://diwanshu-kumar.netlify.app](http://diwanshu-kumar.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="http://diwanshu-kumar.netlify.app">My Projects</a>.
 
 - 💬 Ask me about **Front End WebDevelopment (HTML,CSS,JavaScript, ReactJS)**
 
