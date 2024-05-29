@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Front End WebDevelopment (HTML,CSS,JavaScript, ReactJS)**
 
-- 📫 How to reach me **diwanshuk2004@gmail.com**
+- 📫 How to reach me <a href="diwanshuk2004@gmail.com">E-mail</a>.
 
 - ⚡ Fun fact **I think I am funny 😊**
 
